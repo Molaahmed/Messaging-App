@@ -1,0 +1,16 @@
+{
+  "name": "messaging-server",
+  "version": "0.0.1",
+  "description": "Socket Io Messaging App, it is availlable for everyone to learn and add new futures to the app. Code free :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Redzhep Molaahmed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.5.0"
+  },
+  "type": "module"
+}
